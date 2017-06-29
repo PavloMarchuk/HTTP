@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HTTP_listerner_Server", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HTTP_client", "02_HTTP_client\02_HTTP_client.csproj", "{EA96B574-341E-4BD7-B253-2BCDA36B2E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Server2", "03_Server2\03_Server2.csproj", "{11373733-6250-4717-915E-FFCF2A2A681A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA96B574-341E-4BD7-B253-2BCDA36B2E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA96B574-341E-4BD7-B253-2BCDA36B2E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA96B574-341E-4BD7-B253-2BCDA36B2E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11373733-6250-4717-915E-FFCF2A2A681A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11373733-6250-4717-915E-FFCF2A2A681A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11373733-6250-4717-915E-FFCF2A2A681A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11373733-6250-4717-915E-FFCF2A2A681A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
